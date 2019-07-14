@@ -1,0 +1,16 @@
+Master ${PERSON_NAME}, 
+
+
+This is to notify you that the price
+of the product: ${PRODUCT_NAME}
+has reduced to: ₹ ${PRODUCT_PRICE} on
+the website: ${WEBSITE_NAME}.
+I got the link ready for you: ${LINK}.
+
+
+Hope I was helpful.
+Have a great day sir.
+
+
+Yours Truly,
+JARVIS
